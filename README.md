@@ -28,6 +28,29 @@ Users will have the ability to create and manage their own custom lists and stay
     * Create curated lists ( for example Top 10 Anime of the Year, Seasonal Anime) 
     * Broadcast announcements
  
+If there is time notifications whenever a new announcement is made will be implemented. 
+
+### Target audience
+Anime becoming more popular year after year, it targets not only young people but also the elderly and everything in between. With its themes and outstanding animation, it is set to become an overpowering influence for future generations. 
+
+### Tech Stack 
+- **Front End**
+  - HTML
+  - CSS
+  - Javascript
+  - ReactJS
+
+- **Back End**
+  - Javascript
+  - NodeJS
+  - ExpressJS
+  - MongoDB
+  - Mongoose
+
+- **Third Party Services**
+  - JikanAPI
+
+
 
 
 
