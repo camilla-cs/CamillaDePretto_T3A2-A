@@ -1,10 +1,7 @@
 # CamillaDePretto_T3A2-A
 Documentation for T3A2-A Coder Academy assignment. 
 
-## Important Note: 
-Certain browser extensions, like ad blockers, may interfere with the app’s functionality. If you experience issues, try temporarily disabling extensions.
-
-## My Dear Otaku (Name TBD ) 
+## Animetrail 
 
 ## Chapters 
 
