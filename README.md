@@ -9,6 +9,7 @@ Documentation for T3A2-A Coder Academy assignment.
 - [ R2: Dataflow Diagram](#dataflow-diagram)
 - [ R3: Application Architecture Diagram](#application-architecture-diagram)
 - [ R4: User Stories](#user-stories)
+- [R5: Wireframes](#wireframes)
 
 ## Introduction 
 ### Purpose 
@@ -78,14 +79,14 @@ For example, user stories might look like:
 - As a manager, I want to be able to understand my colleagues progress, so I can better report our sucess and failures.
 
 ### Personas
-The application has been built with different users background and motives in mind. 
+The application has been built with different users' backgrounds and motives in mind. 
 
 | Name | Age | Bio | Need | Purpose |
 |:---- | :---| :---|:-----|:------- | 
 | Camilla | 25 | Camilla loves anime but she's also picky in what she watches. | Discover anime with specific themes or genres | So she can reduce search time and find shows that satisfy her.|
-| Gwen | 27| Gwen is a university student who has been watching anime since she was a kid but can't remember the name of some of her old favourites. | Search by filter such as release date, studio and genre. | So she can rediscover nostalgic anime from her past|
-| Peter | 35 | Peter is an artist who would like to open his own animation studio in Japan. | To access reliable, updated news on anime and animation industry.| So he can stay informed and inspired as he build his dream career. |
-| Rosanna | 45 | Rosanna has a young daughter who likes watchin Sailor Moon on the TV but Rosanna is at work at the time and she has problems in using computers.| Simple navigation and recommendations feature.| So she can share and understand her daughter's love fo anime without technical barriers.|
+| Gwen | 27| Gwen is a university student who has been watching anime since she was a kid but can't remember the names of some of her old favourites. | Search by filtering by release date, studio, and genre. | So she can rediscover nostalgic anime from her past|
+| Peter | 35 | Peter is an artist who would like to open his own animation studio in Japan. | To access reliable, updated news on the anime and animation industry.| So he can stay informed and inspired as he builds his dream career. |
+| Rosanna | 45 | Rosanna has a young daughter who likes watching Sailor Moon on the TV but Rosanna is at work at the time and she has problems in using computers.| Simple navigation and recommendations feature.| So she can share and understand her daughter's love for anime without technical barriers.|
 |Johan | 13 | Johan is a middle-school student who struggles to make friends. His classmates always talk about a certain "Chainsaw Man" show they're watching. | Easy access to popular anime titles. | So he can join in conversations with his classmates and make new friends around common interests.|
 
 ### Example User Stories
@@ -97,4 +98,23 @@ The application has been built with different users background and motives in mi
 |Peter| As Peter, I want to see regular updates and news about the anime industry, so that I can stay informed about trends for my career goals.|
 |Rosanna| As Rosanna, I want a simple anime recommendation section so that I can connect with my daughter. |
 |Johan| As Johan, I want to find popular anime titles, so that I can talk about them with my friends and feel included in conversations.|
+
+## Wireframes
+Wireframes for Desktop, tablet and mobile frames were created using Figma and Canva. 
+On each page, a legend can be found explaining various components and their function.
+
+The following wireframes are not the final version of the application. 
+
+### Homepage
+![Homepage]()
+![Sign up page]()
+![Login page]()
+![User dashboard]()
+![Admin dashboard]()
+![Manage Users page(only for admin)]()
+![Profile page]()
+![Search anime title]()
+![Anime results]()
+![Recommendations results]()
+![Announcements page]()
 
