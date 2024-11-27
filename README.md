@@ -106,15 +106,15 @@ On each page, a legend can be found explaining various components and their func
 The following wireframes are not the final version of the application. 
 
 ### Homepage
-![Homepage]()
-![Sign up page]()
-![Login page]()
-![User dashboard]()
-![Admin dashboard]()
-![Manage Users page(only for admin)]()
-![Profile page]()
-![Search anime title]()
-![Anime results]()
-![Recommendations results]()
-![Announcements page]()
+![Homepage](/docs/wireframe-homepage.png)
+![Sign up page](/docs/wireframe-signup.png)
+![Login page](/docs/wireframe-login.png)
+![User dashboard](/docs/wireframe-userdashboard.png)
+![Admin dashboard](/docs/wireframe-admindashboard.png)
+![Manage Users page(only for admin)](/docs/wireframe-manageusers.png)
+![Profile page](/docs/wireframe-profile.png)
+![Search anime title](/docs/wireframe-searchtitle.png)
+![Anime results](/docs/wireframe-animeresults.png)
+![Recommendations results](/docs/wireframe-recommendations.png)
+![Announcements page](/docs/wireframe-announcements.png)
 
