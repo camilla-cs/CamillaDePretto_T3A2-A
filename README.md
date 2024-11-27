@@ -89,6 +89,12 @@ The application has been built with different users' backgrounds and motives in 
 | Rosanna | 45 | Rosanna has a young daughter who likes watching Sailor Moon on the TV but Rosanna is at work at the time and she has problems in using computers.| Simple navigation and recommendations feature.| So she can share and understand her daughter's love for anime without technical barriers.|
 |Johan | 13 | Johan is a middle-school student who struggles to make friends. His classmates always talk about a certain "Chainsaw Man" show they're watching. | Easy access to popular anime titles. | So he can join in conversations with his classmates and make new friends around common interests.|
 
+![Camilla Persona](/docs/1.png)
+![Gwen Persona](/docs/2.png)
+![Peter Persona](/docs/3.png)
+![Rosanna Persona](/docs/4.png)
+![Johan Persona](/docs/5.png)
+
 ### Example User Stories
 
 |Name | Story|
