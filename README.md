@@ -60,6 +60,8 @@ The app is aimed at anime enthusiasts of all ages, from casual viewers who want 
 Dataflow Diagram made with draw.io. 
 
 ## Application Architecture Diagram 
+Application Architecture Diagram built using draw.io. 
+![Application Architecture Diagram](/docs/application-arch-diagram.png)
 
 ## User Stories 
 The user stories for this application were made by following [Atlassian's](https://www.atlassian.com/agile/project-management/user-stories) format. 
