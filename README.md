@@ -117,15 +117,25 @@ The following wireframes are not the final version of the application.
 
 ### Homepage
 ![Homepage](/docs/wireframe-homepage.png)
+### Sign up page
 ![Sign up page](/docs/wireframe-signup.png)
+### Login page
 ![Login page](/docs/wireframe-login.png)
+### User Dashboard
 ![User dashboard](/docs/wireframe-userdashboard.png)
+### Admin Dashboard
 ![Admin dashboard](/docs/wireframe-admindashboard.png)
+### Users management page (admin only)
 ![Manage Users page(only for admin)](/docs/wireframe-manageusers.png)
+### Profile page
 ![Profile page](/docs/wireframe-profile.png)
+### Search anime by title page
 ![Search anime title](/docs/wireframe-searchtitle.png)
+### Anime results page
 ![Anime results](/docs/wireframe-animeresults.png)
+### Recommendations page
 ![Recommendations results](/docs/wireframe-recommendations.png)
+### Announcements page
 ![Announcements page](/docs/wireframe-announcements.png)
 
 ## Tracking the tasks 
