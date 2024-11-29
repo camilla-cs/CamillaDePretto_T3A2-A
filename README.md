@@ -127,3 +127,32 @@ The following wireframes are not the final version of the application.
 ![Recommendations results](/docs/wireframe-recommendations.png)
 ![Announcements page](/docs/wireframe-announcements.png)
 
+## Screenshots 
+[Trello Board](https://trello.com/invite/b/673536c7a5b3ccdad32707ea/ATTI050239c69f4df74c90db72906ccf17613B637CFE/t3a2-full-stack-app)
+
+The tasks are tracked using a Kanban method in Trello.com. They are divided by colors: tasks related to the documentation are in purple, deadlines (red) and reminders(orange). The server tasks are in blue, the admin and user model and as well as authorization and authentication features are labelled in yellow. Fetching the data from Jikan API is in pink and finally the user and admin CRUD operations are in green. 
+
+Labeling the tasks by color and focusing on one task at the time was an essential part in developing this project. 
+
+![Trello 1](/docs/Trello1.png)
+![Trello 2](/docs/Trello2.png)
+![Trello 3](/docs/Trello3.png)
+![Trello 4](/docs/Trello4.png)
+![Trello 5](/docs/Trello5.png)
+![Trello 6](/docs/Trello6.png)
+![Trello 7](/docs/Trello7.png)
+![Trello 8](/docs/Trello8.png)
+![Trello 9](/docs/Trello9.png)
+![Trello 10](/docs/Trello10.png)
+![Trello 11](/docs/Trello11.png)
+![Trello 12](/docs/Trello12.png)
+![Trello 13](/docs/Trello13.png)
+![Trello 14](/docs/Trello14.png)
+![Trello 15](/docs/Trello15.png)
+![Trello 16](/docs/Trello16.png)
+![Trello 17](/docs/Trello17.png)
+![Trello 18](/docs/Trello18.png)
+![Trello 19](/docs/Trello19.png)
+![Trello 20](/docs/Trello20.png)
+![Trello 21](/docs/Trello21.png) 
+
