@@ -1,7 +1,5 @@
-# CamillaDePretto_T3A2-A
+# Animetrail 
 Documentation for T3A2-A Coder Academy assignment. 
-
-## Animetrail 
 
 ## Chapters 
 
