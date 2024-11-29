@@ -109,6 +109,10 @@ The application has been built with different users' backgrounds and motives in 
 |Rosanna| As Rosanna, I want a simple anime recommendation section so that I can connect with my daughter. |
 |Johan| As Johan, I want to find popular anime titles, so that I can talk about them with my friends and feel included in conversations.|
 
+![User stories tracking](/docs/user-stories.png)
+![User stories tracking 2](/docs/user-stories2.png)
+
+
 ## Wireframes
 Wireframes for Desktop, tablet and mobile frames were created using Figma and Canva. 
 On each page, a legend can be found explaining various components and their function.
