@@ -10,6 +10,7 @@ Documentation for T3A2-A Coder Academy assignment.
 - [ R3: Application Architecture Diagram](#application-architecture-diagram)
 - [ R4: User Stories](#user-stories)
 - [R5: Wireframes](#wireframes)
+- [R6: Tracking the Tasks](#tracking-the-tasks)
 
 ## Introduction 
 ### Purpose 
@@ -127,7 +128,7 @@ The following wireframes are not the final version of the application.
 ![Recommendations results](/docs/wireframe-recommendations.png)
 ![Announcements page](/docs/wireframe-announcements.png)
 
-## Screenshots 
+## Tracking the tasks 
 [Trello Board](https://trello.com/invite/b/673536c7a5b3ccdad32707ea/ATTI050239c69f4df74c90db72906ccf17613B637CFE/t3a2-full-stack-app)
 
 The tasks are tracked using a Kanban method in Trello.com. They are divided by colors: tasks related to the documentation are in purple, deadlines (red) and reminders(orange). The server tasks are in blue, the admin and user model and as well as authorization and authentication features are labelled in yellow. Fetching the data from Jikan API is in pink and finally the user and admin CRUD operations are in green. 
