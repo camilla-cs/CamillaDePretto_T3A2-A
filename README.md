@@ -56,7 +56,7 @@ The app is aimed at anime enthusiasts of all ages, from casual viewers who want 
   - Heroku for back-end deployment
 
 ## Dataflow Diagram 
-The application's Dataflow Diagram (DFD) was made with draw.io in order to provide a graphical representaion on how data flows through the application for a better understanding of the latest. 
+The application's Dataflow Diagram (DFD) was made with draw.io in order to provide a graphical representation on how data flows through the application for a better understanding of the latest. 
 ![Dataflow Diagram](/docs/dfd.png)
 
 ## Application Architecture Diagram 
