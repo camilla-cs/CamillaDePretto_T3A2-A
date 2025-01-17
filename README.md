@@ -1,6 +1,67 @@
 # Animetrail 
 Documentation for T3A2-A Coder Academy assignment. 
 
+## Deployed website link
+[Deployed website](https://animetrail.netlify.app/)
+
+## Front-end Repository : [front-end](https://github.com/camilla-cs/front-end)
+
+## Back-end Repository : [server-backend](https://github.com/camilla-cs/server-backend)
+
+## How to install and run the application 
+1. **Clone the Front-end repository** 
+
+2. **Install Dependencies** : 
+- Navigate to the project directory and run 
+```bash
+npm install 
+```
+
+3. **Create .env file**:
+- In the root directory, create a .env file and add the following: 
+```sh
+VITE_API_URL_SERVER=YOUR URL HERE
+```
+(for example: http://localhost:8080)
+
+
+4. **Start the application**: 
+- Run the following command:
+```bash
+npm run dev
+```
+
+5. **Clone the Back-end repository**
+
+6. **Create a .env file**: 
+- in the root directory of the back-end repository, add the following in the .env file: 
+```sh
+DATABASE_URL= YOUR URL HERE
+JWT_SECRET_KEY= YOUR JWT SECRET KEY HERE
+```
+
+7. **Start MongoDB**: 
+```sh
+mongosh
+```
+
+8. **Seed data to database**: 
+```sh
+npm run seed 
+```
+
+9. **Install the packages**:
+- open a new terminal shell and run the following command:  
+```sh
+npm install 
+```
+
+
+10. **Start the server**: 
+```sh
+npm run dev
+```
+
 ## Chapters 
 
 - [ R1: Introduction](#introduction)
